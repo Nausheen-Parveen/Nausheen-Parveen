@@ -1,66 +1,123 @@
-# Hi there! 👋 I'm Nausheen Parveen
+<h1 align="center">Hi 👋, I'm Nausheen Parveen</h1>
+<h3 align="center">Aspiring Data Scientist | B.Tech CSE Student | Lifelong Learner</h3>
 
-<img align="right" alt="Coding" width="350" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif"/>
-
-### 🚀 About Me
-
-🎓 B.Tech Computer Science Engineering Student
-
-📊 Aspiring Data Scientist & AI/ML Enthusiast
-
-🐍 Currently learning Python, SQL, and Data Science
-
-💻 Passionate about solving problems through technology
-
-🌱 Building projects, improving every day, and sharing my learning journey on GitHub.
-
----
-
-## 🛠️ Tech Stack
-
-<p>
-<img src="https://skillicons.dev/icons?i=python,c,git,github,vscode,mysql" />
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Welcome+to+my+GitHub!;Aspiring+Data+Scientist;Learning+Python+%7C+SQL+%7C+Machine+Learning;Building+Projects+Every+Day" />
 </p>
 
-**Currently Learning**
+---
 
-* Data Structures & Algorithms
-* Machine Learning
-* Data Analysis
-* Artificial Intelligence
+## 🚀 About Me
+
+🎓 B.Tech Computer Science Engineering Student at **UPES**
+
+📊 Aspiring **Data Scientist** and **AI/ML Enthusiast**
+
+🐍 Currently learning:
+- Python
+- SQL
+- Data Structures & Algorithms
+- Machine Learning
+
+💡 I enjoy building projects that solve real-world problems and continuously improving my coding skills.
+
+🌱 **Current Goal:** Build a strong portfolio and secure top internship opportunities.
 
 ---
 
-## 📌 Current Goals
+## 💻 Tech Stack
 
-* 🚀 Build impactful Data Science projects
-* 📚 Master Python and Machine Learning
-* 💡 Contribute to Open Source
-* 💼 Secure top internship opportunities
-* 🌍 Keep learning something new every day
+<p align="left">
+
+<img src="https://skillicons.dev/icons?i=python,c,git,github,vscode,mysql,linux" />
+
+</p>
 
 ---
 
-## 📊 GitHub Stats
+## 📈 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Nausheen-Parveen\&show_icons=true\&theme=tokyonight)
+<p align="center">
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Nausheen-Parveen\&layout=compact\&theme=tokyonight)
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Nausheen-Parveen&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-![GitHub Streak](https://streak-stats.demolab.com?user=Nausheen-Parveen\&theme=tokyonight)
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nausheen-Parveen&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+---
+
+## 🔥 GitHub Streak
+
+<p align="center">
+
+<img src="https://streak-stats.demolab.com?user=Nausheen-Parveen&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+---
+
+## 🏆 GitHub Trophies
+
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=Nausheen-Parveen&theme=tokyonight&no-frame=true&row=1&column=6"/>
+
+</p>
+
+---
+
+## 📚 Currently Learning
+
+- Data Science
+- Machine Learning
+- Artificial Intelligence
+- Problem Solving
+- Git & GitHub
+
+---
+
+## 🎯 2026 Goals
+
+✅ Master Python
+
+✅ Build 20+ Projects
+
+✅ Learn Machine Learning
+
+✅ Contribute to Open Source
+
+✅ Crack a Top Internship
 
 ---
 
 ## 🌐 Connect with Me
 
-* 💼 LinkedIn: https://www.linkedin.com/in/nausheen-parveen-ba8588388/
-* 📧 Email: Nausheen.26385@stu.upes.ac.in
+<p align="left">
+
+<a href="https://www.linkedin.com/in/nausheen-parveen-ba8588388/">
+<img src="https://skillicons.dev/icons?i=linkedin" />
+</a>
+
+<a href="mailto:Nausheen.26385@stu.upes.ac.in">
+<img src="https://img.shields.io/badge/Email-0078D4?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+</p>
 
 ---
 
-### ✨ Quote I Live By
+## 💭 Quote
 
-> **"Dream big. Learn continuously. Build fearlessly."**
+> *"Dream big. Stay consistent. Build things that matter."* 🚀
+
+---
+
+<p align="center">
+
+<img src="https://komarev.com/ghpvc/?username=Nausheen-Parveen&label=Profile%20Views&color=0e75b6&style=flat"/>
 
 ⭐ Thanks for visiting my profile!
+
+</p>
 

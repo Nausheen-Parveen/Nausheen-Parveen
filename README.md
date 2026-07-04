@@ -85,14 +85,6 @@
 
 </p>
 
----
-
-## 💭 Quote
-
-> *"Dream big. Stay consistent. Build things that matter."* 🚀
-
----
-
 <p align="center">
 
 <img src="https://komarev.com/ghpvc/?username=Nausheen-Parveen&label=Profile%20Views&color=0e75b6&style=flat"/>
